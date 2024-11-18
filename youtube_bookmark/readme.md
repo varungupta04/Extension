@@ -29,11 +29,13 @@ As someone who often listens to long YouTube videos (like audiobooks and educati
 
 2. **Viewing Your Bookmarks:**
    - Once you’ve bookmarked timestamps, click on the extension icon at the top of your browser. This will show you a list of all the saved timestamps for that video.
-   - ![Extension View](assets/extension_view.png)
+   - ![Extension View](assets/extension.png)
 
 3. **Using the Extension on Non-YouTube Pages:**
    - If you try to use the extension on a non-YouTube page, you’ll see a message reminding you that the extension only works on YouTube.
    - ![Non-YouTube Message](assets/any_other_page.png)
+
+
 Browser Compatibility
 
 This extension works on Google Chrome and any other Chromium-based browsers such as:
