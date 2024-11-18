@@ -15,6 +15,7 @@ This repo contains a basic, working example of a Chrome extension using **manife
    ```bash
    git clone https://github.com/varungupta04/Extension
 2. Navigate to the folder to work with the template
+   ```bash
    cd Extension/Base_template_V3
    
 ## Browser Compatibility
