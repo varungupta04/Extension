@@ -21,11 +21,19 @@ As someone who often listens to long YouTube videos (like audiobooks and educati
 5.	Click Load unpacked and select the folder where the extension files are located.
 6.	Now the extension should be funcitonal on your lcoal machine
 
-How to Use
+## How to Use
 
-	•	While watching a YouTube video, click the extension’s icon in the browser toolbar to bookmark the current timestamp.
-	•	You can later view your saved timestamps and quickly jump to those moments in the video.
+1. **Adding a Timestamp:**
+   - While watching a YouTube video, look for the plus button next to the video length. Click it to bookmark the current timestamp for easy reference later.
+   - ![Add Timestamp](assets/scroll_bar.png)
 
+2. **Viewing Your Bookmarks:**
+   - Once you’ve bookmarked timestamps, click on the extension icon at the top of your browser. This will show you a list of all the saved timestamps for that video.
+   - ![Extension View](assets/extension_view.png)
+
+3. **Using the Extension on Non-YouTube Pages:**
+   - If you try to use the extension on a non-YouTube page, you’ll see a message reminding you that the extension only works on YouTube.
+   - ![Non-YouTube Message](assets/any_other_page.png)
 Browser Compatibility
 
 This extension works on Google Chrome and any other Chromium-based browsers such as:
