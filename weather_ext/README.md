@@ -24,12 +24,26 @@ This is a chrome extension that displays the weather for the city added by the u
 
 <br />
 
+## How to Use
+
+1. **Installing the Extension:**
+   - To install, first unpack the folder in the Chrome extension area.  
+     ![Unpacking Extension](src/background/unpacking.png)
+
+2. **Managing Cities:**
+   - Once installed, you can add multiple cities to view their weather. You can see the weather details and use the delete button to remove a city from the list if needed.  
+     ![City List with Delete Option](src/background/list.png)
+
+3. **Viewing City Weather:**
+   - On regular use, you can view the weather details for your added cities, including temperature, humidity, and the "feels like" temperature.  
+     ![Weather View](src/background/temp.png)
 ## Loading The Chrome Extension
 
 1. Open Chrome and navigate to `chrome://extensions/`
 2. Toggle on `Developer mode` in the top right corner
 3. Click `Load unpacked`
 4. Select the entire `dist` folder
+   
 
 <br />
 
